@@ -125,6 +125,9 @@ function myFunction6(data) {
     }
     document.querySelector("#sum").innerHTML = `Az összes meteorit összsúlya: ${sum.toFixed(2)}`;
 }
+
+// Megvan hogy mit hogy kéne megcsinálni, valószínűleg a táblázat létrehozása miatt nem megy semmi
+
 /* 
     A kapott JSON file a Föld-be csapódott meteoritok adatait tartalmazza.
 
